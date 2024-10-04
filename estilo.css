@@ -2,8 +2,8 @@
     display: flex;
 }
 .cartao{
-background-color: aqua;
-color: red;
+background-color: purple;
+color: hsl(56, 100%, 72%);
 border-radius: 20px;
 height:20rem;
 flex-grow: 1;
