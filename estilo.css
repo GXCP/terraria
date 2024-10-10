@@ -18,7 +18,7 @@ text-align: center;
     border-radius: 20px;
 }
 .cartao:hover .cartao--conteudo{
-background-color: brown;
+background-color: greenyellow;
 transform: rotateY(180deg);
 }
 .cartao--resposta{
