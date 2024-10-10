@@ -14,7 +14,7 @@ text-align: center;
 }
 
 .cartao{
-    background-color: purple
+    background-color: purple;
     border-radius: 20px;
 }
 .cartao:hover .cartao--conteudo{
