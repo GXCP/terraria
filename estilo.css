@@ -26,7 +26,7 @@ transform: rotateY(180deg);
 }
 .cartao--conteudo{
     border-radius: 20px;
-    height: 70%;
+    height: 66%;
     transform-style: preserve-3d;
     transition: 350ms ease-in-out;
 
