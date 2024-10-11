@@ -28,6 +28,6 @@ transform: rotateY(180deg);
     border-radius: 20px;
     height: 100%;
     transform-style: preserve-3d;
-    transition: 250ms ease-in-out;
+    transition: 350ms ease-in-out;
 
 }
