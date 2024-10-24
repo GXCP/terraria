@@ -35,3 +35,7 @@ transform: rotateY(180deg);
 .cartao--conteudo p{
    margin-bottom: 350px;
 }
+
+.cartao--pergunta img{
+    width: 90%;
+}
