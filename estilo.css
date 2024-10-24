@@ -32,10 +32,6 @@ transform: rotateY(180deg);
     transition: 350ms ease-in-out;
 
 }
-.cartao--conteudo p{
-   margin-bottom: 350px;
-}
-
 .cartao--pergunta img{
     width: 90%;
 }
