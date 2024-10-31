@@ -37,3 +37,7 @@ transform: rotateY(180deg);
 .cartao--pergunta img{
     width: 40%;
 }
+
+.cartao--pergunta, .cartao--resposta{
+    backface-visibility: hidden;
+}
