@@ -36,7 +36,7 @@ transform: rotateY(180deg);
 }
 .cartao--pergunta img{
     width: 40%;
-    margin-bottom: 10px;
+    margin-bottom: -10px;
 }
 
 .cartao--pergunta, .cartao--resposta{
