@@ -38,6 +38,9 @@ transform: rotateY(180deg);
     width: 40%;
     margin-bottom: -10px;
 }
+.cartao--resposta p {
+    margin-bottom: 10px;
+}
 
 .cartao--pergunta, .cartao--resposta{
     backface-visibility: hidden;
