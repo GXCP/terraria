@@ -37,9 +37,10 @@ transform: rotateY(180deg);
 .cartao--pergunta img{
     width: 40%;
     margin-bottom: -10px;
+    
 }
 .cartao--resposta p {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .cartao--pergunta, .cartao--resposta{
