@@ -1,6 +1,11 @@
+body{
+    background-image: url("./fundo.png");
+}
+
+
 .conteudo{
     display: flex;
-background-image: url("./fundo.png");
+
 }
 .cartao{
 background-color: purple;
