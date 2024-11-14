@@ -1,6 +1,8 @@
 .conteudo{
     display: flex;
 background-image: url("./fundo.png");
+width: 105%;
+height: 200% ;
 }
 .cartao{
 background-color: purple;
